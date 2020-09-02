@@ -1,0 +1,10 @@
+{application, my_awesome_dep,
+ [{description, "So awesome"},
+  {vsn, "0.0.1"},
+  {applications, [kernel,
+                  stdlib,
+                 ]},
+  {included_applications, []},
+  {env, []},
+  {mod, {my_awesome_dep, []}},
+  {modules, []}]}.
