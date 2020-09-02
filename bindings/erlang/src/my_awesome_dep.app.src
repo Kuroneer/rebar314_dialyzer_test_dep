@@ -6,5 +6,5 @@
                  ]},
   {included_applications, []},
   {env, []},
-  {mod, {my_awesome_dep, []}},
+  {mod, {my_awesome_dep_app, []}},
   {modules, []}]}.
