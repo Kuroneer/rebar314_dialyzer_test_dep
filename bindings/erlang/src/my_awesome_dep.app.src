@@ -2,7 +2,7 @@
  [{description, "So awesome"},
   {vsn, "0.0.1"},
   {applications, [kernel,
-                  stdlib,
+                  stdlib
                  ]},
   {included_applications, []},
   {env, []},
